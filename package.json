@@ -30,7 +30,7 @@
     "@types/jest": "^29.2.3",
     "@types/node": "^18.11.10",
     "@typescript-eslint/eslint-plugin": "^5.45.0",
-    "@typescript-eslint/parser": "^5.45.0",
+    "@typescript-eslint/parser": "^8.26.0",
     "bundlesize": "^0.18.1",
     "doctoc": "^2.0.1",
     "esbuild": "^0.25.0",
